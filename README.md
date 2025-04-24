@@ -2,7 +2,7 @@
 # Road Traffic Accidents Analysis – UK (Corel Tech Project)
 
 ## Project Overview
-This project explores patterns in UK road traffic accidents to uncover critical risk factors and provide data-driven recommendations for safety improvements. Leveraging Excel, Power BI, and statistical techniques, I conducted a full-cycle analysis—from data cleaning to dashboard insights—aimed at supporting road safety policy decisions and resource allocation.
+This project explores patterns in UK road traffic accidents to uncover critical risk factors and provide data-driven recommendations for safety improvements. Leveraging Excel, and statistical techniques, I conducted a full-cycle analysis—from data cleaning to dashboard insights—aimed at supporting road safety policy decisions and resource allocation.
 
 ---
 
@@ -26,7 +26,7 @@ This project explores patterns in UK road traffic accidents to uncover critical 
 
 ---
 
-## 🛠️ Data Cleaning & Preparation
+## Data Cleaning & Preparation
 Performed in Excel:
 - Reformatted date/time fields and standardized number columns.
 - Cleaned categorical values (e.g., replacing nulls in junction controls with modal values).
@@ -101,14 +101,11 @@ This project reflects my capabilities in:
 ---
 
 ## What's Included in the Repository
-- Cleaned datasets (XLSX)
-- Pivot tables (XLSX)
+- Cleaned datasets (ZIP)
+- Pivot tables (PNG)
 - Excel dashboard (PNG)
 - Full analysis scripts
 
-
-# Define the file path
-file_path = Path("/mnt/data/road_traffic_accident_analysis_oladayo.md")
 
 # Write the markdown content to the file
 file_path.write_text(markdown_content)

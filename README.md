@@ -6,7 +6,7 @@ This project explores patterns in UK road traffic accidents to uncover critical 
 
 ---
 
-## bjectives
+## Objectives
 - Analyze historical traffic accident data to identify key trends and correlations.
 - Support decision-makers in crafting **targeted road safety strategies**.
 - Help prioritize infrastructure investments based on evidence.
@@ -101,10 +101,10 @@ This project reflects my capabilities in:
 ---
 
 ## What's Included in the Repository
-- Cleaned datasets (PNG)
+- Cleaned datasets (XLSX)
 - Pivot tables (XLSX)
 - Excel dashboard (PNG)
-- Excel analysis scripts
+- Full analysis scripts
 
 
 # Define the file path
